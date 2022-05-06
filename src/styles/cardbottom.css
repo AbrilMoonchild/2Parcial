@@ -1,0 +1,52 @@
+
+
+.description{
+    /* Description of what is done here */
+
+
+position: static;
+width: 321px;
+height: 19px;
+left: 21px;
+top: 10px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+/* Text Black */
+
+color: #2F2F2F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+}
+.last-updated{
+    /* Last Updated */
+
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 19px;
+top: 9px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+
+/* Light Text */
+
+color: #888888;
+}
